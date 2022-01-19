@@ -63,7 +63,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment nnnn
 
 ### `yarn build` fails to minify
 ### this is commied from Server
